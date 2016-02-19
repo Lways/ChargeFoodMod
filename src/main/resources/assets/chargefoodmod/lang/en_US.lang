@@ -1,0 +1,4 @@
+item.chargeFood.name=Chargeable Food
+item.mixingModule.name=Mixing Module
+item.subspaceModule.name=Subspace Module
+chat.noFood=You have no food. So unable to charge.

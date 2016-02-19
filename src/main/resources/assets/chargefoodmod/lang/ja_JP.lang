@@ -1,0 +1,5 @@
+﻿
+item.chargeFood.name=携帯食料庫
+item.mixingModule.name=粉砕モジュール
+item.subspaceModule.name=亜空間モジュール
+chat.noFood=食べ物がないのでチャージできません。
